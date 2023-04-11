@@ -4,16 +4,18 @@ from pathlib import Path
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from .settings import ALLOWED_ORIGINS, DOCS_URL, PRODUCTION
+
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 RESOURCES = BASE_DIR / "my_poke_api" / "resources"
 
+app = FastAPI(docs_url=DOCS_URL)
 
-origins = [
-    "http://127.0.0.1:5173",
-    "http://localhost:5173",
-]
-
-app = FastAPI()
+# CORS
+if PRODUCTION:  # pragma: no cover
+    origins = ALLOWED_ORIGINS.split(",")
+else:
+    origins = ["*"]
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
