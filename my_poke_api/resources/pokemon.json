@@ -1869,7 +1869,7 @@
         "super_resists": [],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue", "bird"]
     },
     "145": {
         "id": "145",
@@ -1882,7 +1882,7 @@
         "super_resists": [],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "yellow", "bird"]
     },
     "146": {
         "id": "146",
@@ -1895,7 +1895,7 @@
         "super_resists": ["bug", "grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "red", "bird"]
     },
     "147": {
         "id": "147",
@@ -1947,7 +1947,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white", "pink"]
     },
     "151": {
         "id": "151",
@@ -1960,7 +1960,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white", "pink"]
     },
     "152": {
         "id": "152",
@@ -3156,7 +3156,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "yellow", "dog"]
     },
     "244": {
         "id": "244",
@@ -3169,7 +3169,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "brown", "dog"]
     },
     "245": {
         "id": "245",
@@ -3182,7 +3182,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue", "dog"]
     },
     "246": {
         "id": "246",
@@ -3234,7 +3234,7 @@
         "super_resists": ["fighting"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white", "blue"]
     },
     "250": {
         "id": "250",
@@ -3247,7 +3247,7 @@
         "super_resists": ["bug", "grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "orange", "bird"]
     },
     "251": {
         "id": "251",
@@ -3260,7 +3260,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "green"]
     },
     "252": {
         "id": "252",
@@ -4898,7 +4898,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "gray", "robot"]
     },
     "378": {
         "id": "378",
@@ -4911,7 +4911,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "light blue", "robot", "blue"]
     },
     "379": {
         "id": "379",
@@ -4924,7 +4924,7 @@
         "super_resists": [],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "gray", "robot"]
     },
     "380": {
         "id": "380",
@@ -4937,7 +4937,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "red", "lugia"]
     },
     "381": {
         "id": "381",
@@ -4950,7 +4950,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue", "lugia"]
     },
     "382": {
         "id": "382",
@@ -4963,7 +4963,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue", "fish"]
     },
     "383": {
         "id": "383",
@@ -4976,7 +4976,7 @@
         "super_resists": [],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "red", "dinosaur"]
     },
     "384": {
         "id": "384",
@@ -4989,7 +4989,7 @@
         "super_resists": ["grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "green", "dragon", "snake"]
     },
     "385": {
         "id": "385",
@@ -5002,7 +5002,7 @@
         "super_resists": ["psychic"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "yellow"]
     },
     "386": {
         "id": "386",
@@ -5015,7 +5015,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "red", "green"]
     },
     "387": {
         "id": "387",
@@ -6237,7 +6237,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "yellow", "tails"]
     },
     "481": {
         "id": "481",
@@ -6250,7 +6250,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "pink", "tails"]
     },
     "482": {
         "id": "482",
@@ -6263,7 +6263,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "pink", "tails"]
     },
     "483": {
         "id": "483",
@@ -6276,7 +6276,7 @@
         "super_resists": ["grass"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue"]
     },
     "484": {
         "id": "484",
@@ -6289,7 +6289,7 @@
         "super_resists": ["fire", "water"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white"]
     },
     "485": {
         "id": "485",
@@ -6302,7 +6302,7 @@
         "super_resists": ["bug", "steel", "grass", "ice", "fairy"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "gray", "brown"]
     },
     "486": {
         "id": "486",
@@ -6315,7 +6315,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "gray", "robot"]
     },
     "487": {
         "id": "487",
@@ -6328,7 +6328,7 @@
         "super_resists": [],
         "immune_to": ["normal", "fighting"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "gray", "yellow", "black"]
     },
     "488": {
         "id": "488",
@@ -6341,7 +6341,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "pink", "yellow"]
     },
     "489": {
         "id": "489",
@@ -6354,7 +6354,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue"]
     },
     "490": {
         "id": "490",
@@ -6367,7 +6367,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue"]
     },
     "491": {
         "id": "491",
@@ -6380,7 +6380,7 @@
         "super_resists": [],
         "immune_to": ["psychic"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "black", "red"]
     },
     "492": {
         "id": "492",
@@ -6393,7 +6393,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white", "green"]
     },
     "493": {
         "id": "493",
@@ -6406,7 +6406,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white", "yellow"]
     },
     "494": {
         "id": "494",
@@ -6419,7 +6419,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "orange"]
     },
     "495": {
         "id": "495",
@@ -8291,7 +8291,7 @@
         "super_resists": ["rock", "bug"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/638.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue"]
     },
     "639": {
         "id": "639",
@@ -8304,7 +8304,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "gray"]
     },
     "640": {
         "id": "640",
@@ -8317,7 +8317,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "green"]
     },
     "641": {
         "id": "641",
@@ -8330,7 +8330,7 @@
         "super_resists": [],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "cloud", "green"]
     },
     "642": {
         "id": "642",
@@ -8343,7 +8343,7 @@
         "super_resists": [],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "cloud", "blue"]
     },
     "643": {
         "id": "643",
@@ -8356,7 +8356,7 @@
         "super_resists": ["fire", "grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white", "wings"]
     },
     "644": {
         "id": "644",
@@ -8369,7 +8369,7 @@
         "super_resists": ["electric"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "black", "wings"]
     },
     "645": {
         "id": "645",
@@ -8382,7 +8382,7 @@
         "super_resists": [],
         "immune_to": ["electric", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "cloud", "orange"]
     },
     "646": {
         "id": "646",
@@ -8395,7 +8395,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "gray"]
     },
     "647": {
         "id": "647",
@@ -8408,7 +8408,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "pony"]
     },
     "648": {
         "id": "648",
@@ -8421,7 +8421,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "green", "black"]
     },
     "649": {
         "id": "649",
@@ -8434,7 +8434,7 @@
         "super_resists": ["grass"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "purple", "robot"]
     },
     "650": {
         "id": "650",
@@ -9305,7 +9305,7 @@
         "super_resists": [],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue", "deer"]
     },
     "717": {
         "id": "717",
@@ -9318,7 +9318,7 @@
         "super_resists": [],
         "immune_to": ["psychic", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "red", "black"]
     },
     "718": {
         "id": "718",
@@ -9331,7 +9331,7 @@
         "super_resists": [],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "brown"]
     },
     "719": {
         "id": "719",
@@ -9344,7 +9344,7 @@
         "super_resists": [],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "purple", "pink"]
     },
     "720": {
         "id": "720",
@@ -9357,7 +9357,7 @@
         "super_resists": [],
         "immune_to": ["fighting", "normal"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "rings", "yellow"]
     },
     "721": {
         "id": "721",
@@ -9370,7 +9370,7 @@
         "super_resists": ["steel", "fire", "ice"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "red", "dog"]
     },
     "722": {
         "id": "722",
@@ -10033,7 +10033,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/772.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary"]
     },
     "773": {
         "id": "773",
@@ -10046,7 +10046,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white"]
     },
     "774": {
         "id": "774",
@@ -10202,7 +10202,7 @@
         "super_resists": [],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "yellow"]
     },
     "786": {
         "id": "786",
@@ -10215,7 +10215,7 @@
         "super_resists": ["fighting"],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "pink"]
     },
     "787": {
         "id": "787",
@@ -10228,7 +10228,7 @@
         "super_resists": [],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "red"]
     },
     "788": {
         "id": "788",
@@ -10241,7 +10241,7 @@
         "super_resists": [],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "purple"]
     },
     "789": {
         "id": "789",
@@ -10254,7 +10254,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue"]
     },
     "790": {
         "id": "790",
@@ -10267,7 +10267,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue", "eye"]
     },
     "791": {
         "id": "791",
@@ -10280,7 +10280,7 @@
         "super_resists": ["psychic"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white", "lion"]
     },
     "792": {
         "id": "792",
@@ -10293,7 +10293,7 @@
         "super_resists": [],
         "immune_to": ["fighting", "normal"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "purple", "wings"]
     },
     "793": {
         "id": "793",
@@ -10306,7 +10306,7 @@
         "super_resists": ["poison"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/793.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white"]
     },
     "794": {
         "id": "794",
@@ -10319,7 +10319,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "red"]
     },
     "795": {
         "id": "795",
@@ -10332,7 +10332,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white"]
     },
     "796": {
         "id": "796",
@@ -10345,7 +10345,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/796.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "black"]
     },
     "797": {
         "id": "797",
@@ -10358,7 +10358,7 @@
         "super_resists": ["bug", "grass"],
         "immune_to": ["ground", "poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/797.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "green"]
     },
     "798": {
         "id": "798",
@@ -10371,7 +10371,7 @@
         "super_resists": ["grass"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white"]
     },
     "799": {
         "id": "799",
@@ -10384,7 +10384,7 @@
         "super_resists": [],
         "immune_to": ["psychic"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "black"]
     },
     "800": {
         "id": "800",
@@ -10397,7 +10397,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "black"]
     },
     "801": {
         "id": "801",
@@ -10410,7 +10410,7 @@
         "super_resists": ["bug"],
         "immune_to": ["dragon", "poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "robot"]
     },
     "802": {
         "id": "802",
@@ -10423,7 +10423,7 @@
         "super_resists": ["bug"],
         "immune_to": ["normal", "fighting"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "black", "gray"]
     },
     "803": {
         "id": "803",
@@ -10436,7 +10436,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/803.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "purple"]
     },
     "804": {
         "id": "804",
@@ -10449,7 +10449,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/804.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "purple"]
     },
     "805": {
         "id": "805",
@@ -10462,7 +10462,7 @@
         "super_resists": ["normal", "flying"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "gray", "tower"]
     },
     "806": {
         "id": "806",
@@ -10475,7 +10475,7 @@
         "super_resists": ["bug"],
         "immune_to": ["normal", "fighting"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white"]
     },
     "807": {
         "id": "807",
@@ -10488,7 +10488,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "yellow"]
     },
     "808": {
         "id": "808",
@@ -10501,7 +10501,7 @@
         "super_resists": [],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/808.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary"]
     },
     "809": {
         "id": "809",
@@ -10514,7 +10514,7 @@
         "super_resists": [],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "robot"]
     },
     "810": {
         "id": "810",
@@ -11541,7 +11541,7 @@
         "super_resists": [],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "light blue"]
     },
     "889": {
         "id": "889",
@@ -11554,7 +11554,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue"]
     },
     "890": {
         "id": "890",
@@ -11567,7 +11567,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/890.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "blue"]
     },
     "891": {
         "id": "891",
@@ -11580,7 +11580,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/891.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white"]
     },
     "892": {
         "id": "892",
@@ -11593,7 +11593,7 @@
         "super_resists": ["dark"],
         "immune_to": ["psychic"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "gray"]
     },
     "893": {
         "id": "893",
@@ -11606,7 +11606,7 @@
         "super_resists": [],
         "immune_to": ["psychic"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "black", "green"]
     },
     "894": {
         "id": "894",
@@ -11619,7 +11619,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/894.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "yellow"]
     },
     "895": {
         "id": "895",
@@ -11632,7 +11632,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/895.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "red"]
     },
     "896": {
         "id": "896",
@@ -11645,7 +11645,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/896.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "white", "horse"]
     },
     "897": {
         "id": "897",
@@ -11658,7 +11658,7 @@
         "super_resists": [],
         "immune_to": ["normal", "fighting"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/897.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "black", "purple", "horse"]
     },
     "898": {
         "id": "898",
@@ -11671,7 +11671,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "green", "white"]
     },
     "899": {
         "id": "899",
@@ -11762,7 +11762,7 @@
         "super_resists": ["fighting", "bug"],
         "immune_to": ["dragon", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/905.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["legendary", "cloud", "pink"]
     },
     "906": {
         "id": "906",
