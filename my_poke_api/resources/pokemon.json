@@ -10,7 +10,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["bulbasaur", "ivysaur", "venusaur"]
     },
     "2": {
         "id": "2",
@@ -23,7 +23,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["bulbasaur", "ivysaur", "venusaur"]
     },
     "3": {
         "id": "3",
@@ -36,7 +36,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["bulbasaur", "ivysaur", "venusaur"]
     },
     "4": {
         "id": "4",
@@ -49,7 +49,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["charmander", "charmeleon", "charizard"]
     },
     "5": {
         "id": "5",
@@ -62,7 +62,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["charmander", "charmeleon", "charizard"]
     },
     "6": {
         "id": "6",
@@ -75,7 +75,7 @@
         "super_resists": ["bug", "grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["charmander", "charmeleon", "charizard"]
     },
     "7": {
         "id": "7",
@@ -88,7 +88,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["squirtle", "wartortle", "blastoise"]
     },
     "8": {
         "id": "8",
@@ -101,7 +101,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["squirtle", "wartortle", "blastoise"]
     },
     "9": {
         "id": "9",
@@ -114,7 +114,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["squirtle", "wartortle", "blastoise"]
     },
     "10": {
         "id": "10",
@@ -127,7 +127,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["caterpie", "metapod", "butterfree"]
     },
     "11": {
         "id": "11",
@@ -140,7 +140,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["caterpie", "metapod", "butterfree"]
     },
     "12": {
         "id": "12",
@@ -153,7 +153,7 @@
         "super_resists": ["fighting", "grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["caterpie", "metapod", "butterfree"]
     },
     "13": {
         "id": "13",
@@ -166,7 +166,7 @@
         "super_resists": ["fighting", "grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["weedle", "kakuna", "beedrill"]
     },
     "14": {
         "id": "14",
@@ -179,7 +179,7 @@
         "super_resists": ["fighting", "grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["weedle", "kakuna", "beedrill"]
     },
     "15": {
         "id": "15",
@@ -192,7 +192,7 @@
         "super_resists": ["fighting", "grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["weedle", "kakuna", "beedrill"]
     },
     "16": {
         "id": "16",
@@ -205,7 +205,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["pidgey", "pidgeotto", "pidgeot"]
     },
     "17": {
         "id": "17",
@@ -218,7 +218,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["pidgey", "pidgeotto", "pidgeot"]
     },
     "18": {
         "id": "18",
@@ -231,7 +231,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["pidgey", "pidgeotto", "pidgeot"]
     },
     "19": {
         "id": "19",
@@ -244,7 +244,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["rattata", "raticate"]
     },
     "20": {
         "id": "20",
@@ -257,7 +257,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["rattata", "raticate"]
     },
     "21": {
         "id": "21",
@@ -270,7 +270,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["spearow", "fearow"]
     },
     "22": {
         "id": "22",
@@ -283,7 +283,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["spearow", "fearow"]
     },
     "23": {
         "id": "23",
@@ -296,7 +296,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["ekans", "arbok"]
     },
     "24": {
         "id": "24",
@@ -309,7 +309,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["ekans", "arbok"]
     },
     "25": {
         "id": "25",
@@ -322,7 +322,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-        "tags": ["yellow", "rat", "ash"]
+        "tags": ["yellow", "rat", "ash", "pichu", "pikachu", "raichu"]
     },
     "26": {
         "id": "26",
@@ -335,7 +335,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
-        "tags": ["yellow", "rat"]
+        "tags": ["yellow", "rat", "pichu", "pikachu", "raichu"]
     },
     "27": {
         "id": "27",
@@ -348,7 +348,7 @@
         "super_resists": [],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["sandshrew", "sandslash"]
     },
     "28": {
         "id": "28",
@@ -361,7 +361,7 @@
         "super_resists": [],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["sandshrew", "sandslash"]
     },
     "29": {
         "id": "29",
@@ -374,7 +374,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["nidoran-f", "nidorina", "nidoqueen"]
     },
     "30": {
         "id": "30",
@@ -387,7 +387,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["nidoran-f", "nidorina", "nidoqueen"]
     },
     "31": {
         "id": "31",
@@ -400,7 +400,7 @@
         "super_resists": ["poison"],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["nidoran-f", "nidorina", "nidoqueen"]
     },
     "32": {
         "id": "32",
@@ -413,7 +413,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["nidoran-m", "nidorino", "nidoking"]
     },
     "33": {
         "id": "33",
@@ -426,7 +426,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["nidoran-m", "nidorino", "nidoking"]
     },
     "34": {
         "id": "34",
@@ -439,7 +439,7 @@
         "super_resists": ["poison"],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["nidoran-m", "nidorino", "nidoking"]
     },
     "35": {
         "id": "35",
@@ -452,7 +452,7 @@
         "super_resists": [],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["cleffa", "clefairy", "clefable"]
     },
     "36": {
         "id": "36",
@@ -465,7 +465,7 @@
         "super_resists": [],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["cleffa", "clefairy", "clefable"]
     },
     "37": {
         "id": "37",
@@ -478,7 +478,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["vulpix", "ninetales"]
     },
     "38": {
         "id": "38",
@@ -491,7 +491,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["vulpix", "ninetales"]
     },
     "39": {
         "id": "39",
@@ -504,7 +504,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["igglybuff", "jigglypuff", "wigglytuff"]
     },
     "40": {
         "id": "40",
@@ -517,7 +517,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["igglybuff", "jigglypuff", "wigglytuff"]
     },
     "41": {
         "id": "41",
@@ -530,7 +530,7 @@
         "super_resists": ["fighting", "bug", "grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["zubat", "golbat", "crobat"]
     },
     "42": {
         "id": "42",
@@ -543,7 +543,7 @@
         "super_resists": ["fighting", "bug", "grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["zubat", "golbat", "crobat"]
     },
     "43": {
         "id": "43",
@@ -556,7 +556,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["oddish", "gloom", "vileplume", "bellossom"]
     },
     "44": {
         "id": "44",
@@ -569,7 +569,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["oddish", "gloom", "vileplume", "bellossom"]
     },
     "45": {
         "id": "45",
@@ -582,7 +582,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["oddish", "gloom", "vileplume", "bellossom"]
     },
     "46": {
         "id": "46",
@@ -595,7 +595,7 @@
         "super_resists": ["ground", "grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["paras", "parasect"]
     },
     "47": {
         "id": "47",
@@ -608,7 +608,7 @@
         "super_resists": ["ground", "grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["paras", "parasect"]
     },
     "48": {
         "id": "48",
@@ -621,7 +621,7 @@
         "super_resists": ["fighting", "grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
-        "tags": ["purple", "red"]
+        "tags": ["purple", "red", "venonat", "venomoth"]
     },
     "49": {
         "id": "49",
@@ -634,7 +634,7 @@
         "super_resists": ["fighting", "grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
-        "tags": ["purple", "pink"]
+        "tags": ["purple", "pink", "venonat", "venomoth"]
     },
     "50": {
         "id": "50",
@@ -647,7 +647,7 @@
         "super_resists": [],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
-        "tags": ["brown"]
+        "tags": ["brown", "diglett", "dugtrio"]
     },
     "51": {
         "id": "51",
@@ -660,7 +660,7 @@
         "super_resists": [],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
-        "tags": ["brown"]
+        "tags": ["brown", "diglett", "dugtrio"]
     },
     "52": {
         "id": "52",
@@ -673,7 +673,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
-        "tags": ["cat", "white", "yellow"]
+        "tags": ["cat", "white", "yellow", "meowth", "persian"]
     },
     "53": {
         "id": "53",
@@ -686,7 +686,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
-        "tags": ["cat", "white", "red"]
+        "tags": ["cat", "white", "red", "meowth", "persian"]
     },
     "54": {
         "id": "54",
@@ -699,7 +699,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["psyduck", "golduck"]
     },
     "55": {
         "id": "55",
@@ -712,7 +712,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
-        "tags": ["blue"]
+        "tags": ["blue", "psyduck", "golduck"]
     },
     "56": {
         "id": "56",
@@ -725,7 +725,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
-        "tags": ["mankey", "ape", "brown"]
+        "tags": ["mankey", "primeape", "ape", "brown"]
     },
     "57": {
         "id": "57",
@@ -738,7 +738,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
-        "tags": ["mankey", "ape", "brown"]
+        "tags": ["mankey", "primeape", "ape", "brown"]
     },
     "58": {
         "id": "58",
@@ -751,7 +751,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
-        "tags": ["orange", "dog"]
+        "tags": ["orange", "dog", "growlithe", "arcanine"]
     },
     "59": {
         "id": "59",
@@ -764,7 +764,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
-        "tags": ["orange", "dog"]
+        "tags": ["orange", "dog", "growlithe", "arcanine"]
     },
     "60": {
         "id": "60",
@@ -777,7 +777,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["poliwag", "poliwhirl", "poliwrath", "politoed"]
     },
     "61": {
         "id": "61",
@@ -790,7 +790,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["poliwag", "poliwhirl", "poliwrath", "politoed"]
     },
     "62": {
         "id": "62",
@@ -803,7 +803,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["poliwag", "poliwhirl", "poliwrath", "politoed"]
     },
     "63": {
         "id": "63",
@@ -816,7 +816,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["abra", "kadabra", "alakazam"]
     },
     "64": {
         "id": "64",
@@ -829,7 +829,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["abra", "kadabra", "alakazam"]
     },
     "65": {
         "id": "65",
@@ -842,7 +842,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["abra", "kadabra", "alakazam"]
     },
     "66": {
         "id": "66",
@@ -855,7 +855,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["machop", "machoke", "machamp"]
     },
     "67": {
         "id": "67",
@@ -868,7 +868,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["machop", "machoke", "machamp"]
     },
     "68": {
         "id": "68",
@@ -881,7 +881,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["machop", "machoke", "machamp"]
     },
     "69": {
         "id": "69",
@@ -894,7 +894,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["bellsprout", "weepinbell", "victreebel"]
     },
     "70": {
         "id": "70",
@@ -907,7 +907,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["bellsprout", "weepinbell", "victreebel"]
     },
     "71": {
         "id": "71",
@@ -920,7 +920,7 @@
         "super_resists": ["grass"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["bellsprout", "weepinbell", "victreebel", "james"]
     },
     "72": {
         "id": "72",
@@ -933,7 +933,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tentacool", "tentacruel"]
     },
     "73": {
         "id": "73",
@@ -946,7 +946,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tentacool", "tentacruel"]
     },
     "74": {
         "id": "74",
@@ -959,7 +959,7 @@
         "super_resists": ["poison"],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["geodude", "graveler", "golem"]
     },
     "75": {
         "id": "75",
@@ -972,7 +972,7 @@
         "super_resists": ["poison"],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["geodude", "graveler", "golem"]
     },
     "76": {
         "id": "76",
@@ -985,7 +985,7 @@
         "super_resists": ["poison"],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["geodude", "graveler", "golem"]
     },
     "77": {
         "id": "77",
@@ -998,7 +998,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["ponyta", "rapidash", "horse"]
     },
     "78": {
         "id": "78",
@@ -1011,7 +1011,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["ponyta", "rapidash", "horse"]
     },
     "79": {
         "id": "79",
@@ -1024,7 +1024,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
-        "tags": ["pink"]
+        "tags": ["pink", "slowpoke", "slowbro", "slowking"]
     },
     "80": {
         "id": "80",
@@ -1037,7 +1037,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
-        "tags": ["pink"]
+        "tags": ["pink", "slowpoke", "slowbro", "slowking"]
     },
     "81": {
         "id": "81",
@@ -1050,7 +1050,7 @@
         "super_resists": ["flying", "steel"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
-        "tags": ["gray"]
+        "tags": ["gray", "magnemite", "magneton", "magnezone"]
     },
     "82": {
         "id": "82",
@@ -1063,7 +1063,7 @@
         "super_resists": ["flying", "steel"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
-        "tags": ["gray"]
+        "tags": ["gray", "magnemite", "magneton", "magnezone"]
     },
     "83": {
         "id": "83",
@@ -1076,7 +1076,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["farfetchd", "sirfetchd", "celery"]
     },
     "84": {
         "id": "84",
@@ -1089,7 +1089,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["doduo", "dodrio"]
     },
     "85": {
         "id": "85",
@@ -1102,7 +1102,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["doduo", "dodrio"]
     },
     "86": {
         "id": "86",
@@ -1115,7 +1115,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["seel", "dewgong"]
     },
     "87": {
         "id": "87",
@@ -1128,7 +1128,7 @@
         "super_resists": ["ice"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["seel", "dewgong"]
     },
     "88": {
         "id": "88",
@@ -1141,7 +1141,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
-        "tags": ["purple"]
+        "tags": ["purple", "grimer", "muk"]
     },
     "89": {
         "id": "89",
@@ -1154,7 +1154,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
-        "tags": ["purple"]
+        "tags": ["purple", "grimer", "muk"]
     },
     "90": {
         "id": "90",
@@ -1167,7 +1167,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
-        "tags": ["shell", "gray", "tongue"]
+        "tags": ["shell", "gray", "tongue", "shellder", "cloyster"]
     },
     "91": {
         "id": "91",
@@ -1180,7 +1180,7 @@
         "super_resists": ["ice"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
-        "tags": ["shell", "gray"]
+        "tags": ["shell", "gray", "shellder", "cloyster"]
     },
     "92": {
         "id": "92",
@@ -1193,7 +1193,7 @@
         "super_resists": ["poison", "bug"],
         "immune_to": ["normal", "fighting"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["gastly", "haunter", "gengar"]
     },
     "93": {
         "id": "93",
@@ -1206,7 +1206,7 @@
         "super_resists": ["poison", "bug"],
         "immune_to": ["normal", "fighting"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["gastly", "haunter", "gengar"]
     },
     "94": {
         "id": "94",
@@ -1219,7 +1219,7 @@
         "super_resists": ["poison", "bug"],
         "immune_to": ["normal", "fighting"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["gastly", "haunter", "gengar", "agatha"]
     },
     "95": {
         "id": "95",
@@ -1232,7 +1232,7 @@
         "super_resists": ["poison"],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["onix", "steelix"]
     },
     "96": {
         "id": "96",
@@ -1245,7 +1245,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["drowzee", "hypno"]
     },
     "97": {
         "id": "97",
@@ -1258,7 +1258,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["drowzee", "hypno"]
     },
     "98": {
         "id": "98",
@@ -1271,7 +1271,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["krabby", "kingler"]
     },
     "99": {
         "id": "99",
@@ -1284,7 +1284,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["krabby", "kingler"]
     },
     "100": {
         "id": "100",
@@ -1297,7 +1297,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
-        "tags": ["poke ball", "red", "white"]
+        "tags": ["poke ball", "red", "white", "voltorb", "electrode"]
     },
     "101": {
         "id": "101",
@@ -1310,7 +1310,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
-        "tags": ["poke ball", "red", "white"]
+        "tags": ["poke ball", "red", "white", "voltorb", "electrode"]
     },
     "102": {
         "id": "102",
@@ -1323,7 +1323,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["exeggcute", "exeggutor", "eggs"]
     },
     "103": {
         "id": "103",
@@ -1336,7 +1336,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["exeggcute", "exeggutor"]
     },
     "104": {
         "id": "104",
@@ -1349,7 +1349,7 @@
         "super_resists": [],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["cubone", "marowak"]
     },
     "105": {
         "id": "105",
@@ -1362,7 +1362,7 @@
         "super_resists": [],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["cubone", "marowak"]
     },
     "106": {
         "id": "106",
@@ -1375,7 +1375,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tyrogue", "hitmonlee", "hitmonchan", "hitmontop"]
     },
     "107": {
         "id": "107",
@@ -1388,7 +1388,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tyrogue", "hitmonlee", "hitmonchan", "hitmontop"]
     },
     "108": {
         "id": "108",
@@ -1401,7 +1401,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["lickitung", "lickilicky", "tongue"]
     },
     "109": {
         "id": "109",
@@ -1414,7 +1414,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["koffing", "weezing"]
     },
     "110": {
         "id": "110",
@@ -1427,7 +1427,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["koffing", "weezing"]
     },
     "111": {
         "id": "111",
@@ -1440,7 +1440,7 @@
         "super_resists": ["poison"],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["rhyhorn", "rhydon", "rhyperior"]
     },
     "112": {
         "id": "112",
@@ -1453,7 +1453,7 @@
         "super_resists": ["poison"],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["rhyhorn", "rhydon", "rhyperior"]
     },
     "113": {
         "id": "113",
@@ -1466,7 +1466,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["happiny", "chansey", "blissey", "nurse joy", "joy"]
     },
     "114": {
         "id": "114",
@@ -1479,7 +1479,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tangela", "tangrowth"]
     },
     "115": {
         "id": "115",
@@ -1492,7 +1492,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["kangaskhan"]
     },
     "116": {
         "id": "116",
@@ -1505,7 +1505,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["horsea", "seadra", "kingdra"]
     },
     "117": {
         "id": "117",
@@ -1518,7 +1518,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["horsea", "seadra", "kingdra"]
     },
     "118": {
         "id": "118",
@@ -1531,7 +1531,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["goldeen", "seaking"]
     },
     "119": {
         "id": "119",
@@ -1544,7 +1544,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["goldeen", "seaking"]
     },
     "120": {
         "id": "120",
@@ -1557,7 +1557,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["staryu", "starmie", "misty"]
     },
     "121": {
         "id": "121",
@@ -1570,7 +1570,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["staryu", "starmie", "misty"]
     },
     "122": {
         "id": "122",
@@ -1583,7 +1583,7 @@
         "super_resists": ["fighting"],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["mr-mime", "mime-jr"]
     },
     "123": {
         "id": "123",
@@ -1596,7 +1596,7 @@
         "super_resists": ["fighting", "grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
-        "tags": ["green", "knifes"]
+        "tags": ["green", "knifes", "scyther", "scizor"]
     },
     "124": {
         "id": "124",
@@ -1609,7 +1609,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["smoochum", "jynx"]
     },
     "125": {
         "id": "125",
@@ -1622,7 +1622,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["elekid", "electabuzz", "electivire"]
     },
     "126": {
         "id": "126",
@@ -1635,7 +1635,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["magby", "magmar", "magmortar"]
     },
     "127": {
         "id": "127",
@@ -1648,7 +1648,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["pinsir"]
     },
     "128": {
         "id": "128",
@@ -1661,7 +1661,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
-        "tags": ["brown", "horns", "bull"]
+        "tags": ["brown", "horns", "bull", "tauros"]
     },
     "129": {
         "id": "129",
@@ -1674,7 +1674,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
-        "tags": ["red", "fish", "yellow"]
+        "tags": ["red", "fish", "yellow", "magikarp", "gyarados"]
     },
     "130": {
         "id": "130",
@@ -1687,7 +1687,7 @@
         "super_resists": [],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
-        "tags": ["blue"]
+        "tags": ["blue", "magikarp", "gyarados", "lance", "misty", "gary"]
     },
     "131": {
         "id": "131",
@@ -1700,7 +1700,7 @@
         "super_resists": ["ice"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["lapras", "ash"]
     },
     "132": {
         "id": "132",
@@ -1713,7 +1713,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
-        "tags": ["purple", "gum"]
+        "tags": ["purple", "gum", "ditto"]
     },
     "133": {
         "id": "133",
@@ -1726,7 +1726,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
-        "tags": ["dog"]
+        "tags": ["dog", "eevee", "vaporeon", "jolteon", "flareon", "espeon", "umbreon", "leafeon", "glaceon", "sylveon"]
     },
     "134": {
         "id": "134",
@@ -1778,7 +1778,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["porygon", "porygon2", "porygon-z"]
     },
     "138": {
         "id": "138",
@@ -1791,7 +1791,7 @@
         "super_resists": ["fire"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["omanyte", "omastar", "fossil"]
     },
     "139": {
         "id": "139",
@@ -1804,7 +1804,7 @@
         "super_resists": ["fire"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["omanyte", "omastar", "fossil"]
     },
     "140": {
         "id": "140",
@@ -1817,7 +1817,7 @@
         "super_resists": ["fire"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["kabuto", "kabutops", "fossil"]
     },
     "141": {
         "id": "141",
@@ -1830,7 +1830,7 @@
         "super_resists": ["fire"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["kabuto", "kabutops", "fossil"]
     },
     "142": {
         "id": "142",
@@ -1843,7 +1843,7 @@
         "super_resists": [],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["aerodactyl"]
     },
     "143": {
         "id": "143",
@@ -1856,7 +1856,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["munchlax", "snorlax", "ash"]
     },
     "144": {
         "id": "144",
@@ -1869,7 +1869,7 @@
         "super_resists": [],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
-        "tags": ["legendary", "blue", "bird"]
+        "tags": ["legendary", "blue", "bird", "articuno", "zapdos", "moltres"]
     },
     "145": {
         "id": "145",
@@ -1882,7 +1882,7 @@
         "super_resists": [],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
-        "tags": ["legendary", "yellow", "bird"]
+        "tags": ["legendary", "yellow", "bird", "articuno", "zapdos", "moltres"]
     },
     "146": {
         "id": "146",
@@ -1895,7 +1895,7 @@
         "super_resists": ["bug", "grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
-        "tags": ["legendary", "red", "bird"]
+        "tags": ["legendary", "red", "bird", "articuno", "zapdos", "moltres"]
     },
     "147": {
         "id": "147",
@@ -1908,7 +1908,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
-        "tags": ["blue", "white"]
+        "tags": ["blue", "white", "dratini", "dragonair", "dragonite"]
     },
     "148": {
         "id": "148",
@@ -1921,7 +1921,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
-        "tags": ["blue", "white"]
+        "tags": ["blue", "white", "dratini", "dragonair", "dragonite"]
     },
     "149": {
         "id": "149",
@@ -1934,7 +1934,7 @@
         "super_resists": ["grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
-        "tags": ["yellow", "green"]
+        "tags": ["yellow", "green", "dratini", "dragonair", "dragonite", "lance"]
     },
     "150": {
         "id": "150",
@@ -1947,7 +1947,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
-        "tags": ["legendary", "white", "pink"]
+        "tags": ["legendary", "white", "pink", "mewtwo", "mew"]
     },
     "151": {
         "id": "151",
@@ -1960,7 +1960,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
-        "tags": ["legendary", "white", "pink"]
+        "tags": ["legendary", "white", "pink", "mewtwo", "mew"]
     },
     "152": {
         "id": "152",
@@ -2194,7 +2194,7 @@
         "super_resists": ["fighting", "bug", "grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["zubat", "golbat", "crobat"]
     },
     "170": {
         "id": "170",
@@ -2233,7 +2233,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
-        "tags": ["rat", "yellow"]
+        "tags": ["rat", "yellow", "pichu", "pikachu", "raichu"]
     },
     "173": {
         "id": "173",
@@ -2246,7 +2246,7 @@
         "super_resists": [],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["cleffa", "clefairy", "clefable"]
     },
     "174": {
         "id": "174",
@@ -2259,7 +2259,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["igglybuff", "jigglypuff", "wigglytuff"]
     },
     "175": {
         "id": "175",
@@ -2363,7 +2363,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["oddish", "gloom", "vileplume", "bellossom"]
     },
     "183": {
         "id": "183",
@@ -2415,7 +2415,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["poliwag", "poliwhirl", "poliwrath", "politoed"]
     },
     "187": {
         "id": "187",
@@ -2584,7 +2584,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
-        "tags": ["pink"]
+        "tags": ["pink", "slowpoke", "slowbro", "slowking"]
     },
     "200": {
         "id": "200",
@@ -2701,7 +2701,7 @@
         "super_resists": ["rock"],
         "immune_to": ["poison", "electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["onix", "steelix"]
     },
     "209": {
         "id": "209",
@@ -2753,7 +2753,7 @@
         "super_resists": ["grass"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
-        "tags": ["red", "knifes", "claws"]
+        "tags": ["red", "knifes", "claws", "scyther", "scizor"]
     },
     "213": {
         "id": "213",
@@ -2987,7 +2987,7 @@
         "super_resists": ["fire", "water"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["horsea", "seadra", "kingdra"]
     },
     "231": {
         "id": "231",
@@ -3026,7 +3026,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["porygon", "porygon2", "porygon-z"]
     },
     "234": {
         "id": "234",
@@ -3065,7 +3065,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tyrogue", "hitmonlee", "hitmonchan", "hitmontop"]
     },
     "237": {
         "id": "237",
@@ -3078,7 +3078,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tyrogue", "hitmonlee", "hitmonchan", "hitmontop"]
     },
     "238": {
         "id": "238",
@@ -3091,7 +3091,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["smoochum", "jynx"]
     },
     "239": {
         "id": "239",
@@ -3104,7 +3104,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["elekid", "electabuzz", "electivire"]
     },
     "240": {
         "id": "240",
@@ -3117,7 +3117,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["magby", "magmar", "magmortar"]
     },
     "241": {
         "id": "241",
@@ -3143,7 +3143,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["happiny", "chansey", "blissey", "nurse joy", "joy"]
     },
     "243": {
         "id": "243",
@@ -5704,7 +5704,7 @@
         "super_resists": ["fighting"],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["mr-mime", "mime-jr"]
     },
     "440": {
         "id": "440",
@@ -5717,7 +5717,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["happiny", "chansey", "blissey", "nurse joy", "joy"]
     },
     "441": {
         "id": "441",
@@ -5795,7 +5795,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["munchlax", "snorlax", "ash"]
     },
     "447": {
         "id": "447",
@@ -6003,7 +6003,7 @@
         "super_resists": ["flying", "steel"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png",
-        "tags": ["gray"]
+        "tags": ["gray", "magnemite", "magneton", "magnezone"]
     },
     "463": {
         "id": "463",
@@ -6016,7 +6016,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["lickitung", "lickilicky", "tongue"]
     },
     "464": {
         "id": "464",
@@ -6029,7 +6029,7 @@
         "super_resists": ["poison"],
         "immune_to": ["electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["rhyhorn", "rhydon", "rhyperior"]
     },
     "465": {
         "id": "465",
@@ -6042,7 +6042,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tangela", "tangrowth"]
     },
     "466": {
         "id": "466",
@@ -6055,7 +6055,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["elekid", "electabuzz", "electivire"]
     },
     "467": {
         "id": "467",
@@ -6068,7 +6068,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["magby", "magmar", "magmortar"]
     },
     "468": {
         "id": "468",
@@ -6159,7 +6159,7 @@
         "super_resists": [],
         "immune_to": ["ghost"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["porygon", "porygon2", "porygon-z"]
     },
     "475": {
         "id": "475",
@@ -11242,7 +11242,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/865.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["farfetchd", "sirfetchd", "celery"]
     },
     "866": {
         "id": "866",
@@ -13621,7 +13621,7 @@
         "super_resists": ["fighting", "grass"],
         "immune_to": ["ground"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10040.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["pinsir"]
     },
     "10041": {
         "id": "10041",
@@ -13699,7 +13699,7 @@
         "super_resists": ["grass"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10046.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["scyther", "scizor"]
     },
     "10047": {
         "id": "10047",
@@ -14037,7 +14037,7 @@
         "super_resists": ["rock"],
         "immune_to": ["poison", "electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10072.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["onix", "steelix"]
     },
     "10073": {
         "id": "10073",
@@ -14583,7 +14583,7 @@
         "super_resists": ["water", "grass", "electric"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10114.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["exeggcute", "exeggutor"]
     },
     "10115": {
         "id": "10115",
@@ -14596,7 +14596,7 @@
         "super_resists": ["bug"],
         "immune_to": ["normal", "fighting"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10115.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["cubone", "marowak"]
     },
     "10116": {
         "id": "10116",
@@ -15038,7 +15038,7 @@
         "super_resists": ["bug"],
         "immune_to": ["normal", "fighting"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10149.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["cubone", "marowak"]
     },
     "10150": {
         "id": "10150",
@@ -15272,7 +15272,7 @@
         "super_resists": ["fighting", "bug"],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10167.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["koffing", "weezing"]
     },
     "10168": {
         "id": "10168",
@@ -15337,7 +15337,7 @@
         "super_resists": ["fighting"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10172.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["slowpoke", "slowbro", "slowking"]
     },
     "10173": {
         "id": "10173",
@@ -15753,7 +15753,7 @@
         "super_resists": ["ice"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10204.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["lapras"]
     },
     "10205": {
         "id": "10205",
@@ -16351,7 +16351,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10250.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tauros"]
     },
     "10251": {
         "id": "10251",
@@ -16364,7 +16364,7 @@
         "super_resists": ["bug"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10251.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tauros"]
     },
     "10252": {
         "id": "10252",
@@ -16377,7 +16377,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10252.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["tauros"]
     },
     "10253": {
         "id": "10253",
