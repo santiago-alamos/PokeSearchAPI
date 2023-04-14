@@ -3,7 +3,6 @@ from fastapi.testclient import TestClient
 
 from my_poke_api.main import app
 
-
 client = TestClient(app)
 
 
