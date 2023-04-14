@@ -24,17 +24,37 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+POKEMON_DATA = {}
+POKEMON_BY_REGION = {}
+REGIONS = [
+    "kanto",
+    "johto",
+    "hoenn",
+    "sinnoh",
+    "unova",
+    "kalos",
+    "alola",
+    "galar",
+    "paldea",
+]
+
+
+@app.on_event("startup")
+async def startup_event():
+    with open(RESOURCES / "pokemon.json", "r") as f:
+        POKEMON_DATA.update(json.load(f))
+
+    for region in REGIONS:
+        with open(RESOURCES / f"{region}_idx.txt", "r") as f:
+            region_idxs = f.read().split(",")
+
+        pokemon_in_region = []
+        for idx in region_idxs:
+            pokemon_in_region.append(POKEMON_DATA[idx])
+
+        POKEMON_BY_REGION[region] = pokemon_in_region
+
 
 @app.get("/{region}")
 async def get_pokemon_region(region: str):
-    with open(RESOURCES / "pokemon.json", "r") as f:
-        pokemon_data = json.load(f)
-
-    with open(RESOURCES / f"{region.lower()}_idx.txt", "r") as f:
-        region_idxs = f.read().split(",")
-
-    pokemon_in_region = []
-    for idx in region_idxs:
-        pokemon_in_region.append(pokemon_data[idx])
-
-    return pokemon_in_region
+    return POKEMON_BY_REGION[region.lower()]

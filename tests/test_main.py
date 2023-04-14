@@ -22,14 +22,15 @@ client = TestClient(app)
     ],
 )
 def test_main_valid_region(region: str, first: str, last: str):
-    response = client.get(f"/{region}")
-    data = response.json()
+    with TestClient(app) as client:
+        response = client.get(f"/{region}")
+        data = response.json()
 
-    assert response.status_code == 200
-    assert data[0]["name"] == first
-    assert data[-1]["name"] == last
+        assert response.status_code == 200
+        assert data[0]["name"] == first
+        assert data[-1]["name"] == last
 
 
 def test_invalid_region():
-    with pytest.raises(FileNotFoundError):
+    with pytest.raises(KeyError):
         client.get("/invalid-region")
