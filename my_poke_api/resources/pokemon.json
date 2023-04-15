@@ -14284,7 +14284,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "psychic"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10091.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["rattata", "raticate", "grey", "gray", "tail"]
     },
     "10092": {
         "id": "10092",
@@ -14297,7 +14297,7 @@
         "super_resists": [],
         "immune_to": ["ghost", "psychic"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10092.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["rattata", "raticate", "grey", "gray", "tail"]
     },
     "10093": {
         "id": "10093",
@@ -14401,7 +14401,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10100.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["pichu", "pikachu", "raichu", "yellow", "orange", "surf"]
     },
     "10101": {
         "id": "10101",
@@ -14414,7 +14414,7 @@
         "super_resists": ["ice"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10101.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["sandshrew", "sandslash", "light blue", "blue", "tail"]
     },
     "10102": {
         "id": "10102",
@@ -14427,7 +14427,7 @@
         "super_resists": ["ice"],
         "immune_to": ["poison"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10102.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["sandshrew", "sandslash", "light blue", "blue", "tail", "claws"]
     },
     "10103": {
         "id": "10103",
@@ -14440,7 +14440,7 @@
         "super_resists": [],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10103.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["vulpix", "ninetales", "tail", "light blue", "blue", "white"]
     },
     "10104": {
         "id": "10104",
@@ -14453,7 +14453,7 @@
         "super_resists": [],
         "immune_to": ["dragon"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10104.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["vulpix", "ninetales", "tail", "light blue", "blue", "white"]
     },
     "10105": {
         "id": "10105",
@@ -14466,7 +14466,7 @@
         "super_resists": ["rock"],
         "immune_to": ["poison", "electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10105.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["diglett", "dugtrio", "brown"]
     },
     "10106": {
         "id": "10106",
@@ -14479,7 +14479,7 @@
         "super_resists": ["rock"],
         "immune_to": ["poison", "electric"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10106.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["diglett", "dugtrio", "brown"]
     },
     "10107": {
         "id": "10107",
@@ -14492,7 +14492,7 @@
         "super_resists": [],
         "immune_to": ["psychic"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10107.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["meowth", "persian", "grey", "gray", "light blue", "tail"]
     },
     "10108": {
         "id": "10108",
@@ -14505,7 +14505,7 @@
         "super_resists": [],
         "immune_to": ["psychic"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10108.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["meowth", "persian", "grey", "gray", "light blue", "tail"]
     },
     "10109": {
         "id": "10109",
@@ -14518,7 +14518,7 @@
         "super_resists": ["flying"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10109.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["geodude", "graveler", "golem", "grey", "gray"]
     },
     "10110": {
         "id": "10110",
@@ -14531,7 +14531,7 @@
         "super_resists": ["flying"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10110.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["geodude", "graveler", "golem", "grey", "gray"]
     },
     "10111": {
         "id": "10111",
@@ -14544,7 +14544,7 @@
         "super_resists": ["flying"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10111.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["geodude", "graveler", "golem", "grey", "gray"]
     },
     "10112": {
         "id": "10112",
@@ -14557,7 +14557,7 @@
         "super_resists": [],
         "immune_to": ["psychic"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10112.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["grimer", "muk", "green", "yellow"]
     },
     "10113": {
         "id": "10113",
@@ -14570,7 +14570,7 @@
         "super_resists": [],
         "immune_to": ["psychic"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png",
-        "tags": ["placeholder 1", "placeholder 2", "placeholder 3"]
+        "tags": ["grimer", "muk", "green", "yellow", "pink", "blue"]
     },
     "10114": {
         "id": "10114",
@@ -14583,7 +14583,7 @@
         "super_resists": ["water", "grass", "electric"],
         "immune_to": [],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10114.png",
-        "tags": ["exeggcute", "exeggutor"]
+        "tags": ["exeggcute", "exeggutor", "green", "brown", "tree", "palm", "tail"]
     },
     "10115": {
         "id": "10115",
@@ -14596,7 +14596,7 @@
         "super_resists": ["bug"],
         "immune_to": ["normal", "fighting"],
         "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10115.png",
-        "tags": ["cubone", "marowak"]
+        "tags": ["cubone", "marowak", "bones", "white", "brown", "tail"]
     },
     "10116": {
         "id": "10116",
